@@ -8,12 +8,12 @@
 python3 --version
 
 
-#### FOR LINUX ####
+### INSTALLATION  FOR LINUX ###
 $ sudo apt-get update
 $ sudo apt-get install python3.6
 
 
-#### FOR WINDOWS ####
+### INSTALLATION FOR WINDOWS ###
 Download the python.exe file on your computer from the official site.
 
 Open CMD and change Your directory to the path where you have python.exe
@@ -23,7 +23,7 @@ Past this code in your Command prompt make sure to change the name with your fil
 python-3.6.0.exe /quiet InstallAllUsers=1 PrependPath=1 Include_test=0
 
 
-##### TO USE THE .PY FILE #####
+### TO USE THE .PY FILE ###
 python3 scanner.py IP_ADDRESS
 
 
